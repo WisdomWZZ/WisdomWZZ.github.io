@@ -138,6 +138,7 @@ body {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+  background-image: url("/img/bg.jpg");
 }
 iframe {
   margin-top: 10px;
@@ -869,6 +870,18 @@ header nav ul li a:hover {
 /* tags&categories layout */
 .all-list-box {
   min-height: 400px;
+}
+::selection {
+  background: #33a183;
+  color: #fff;
+}
+::-moz-selection {
+  background: #33a183;
+  color: #fff;
+}
+::-webkit-selection {
+  background: #33a183;
+  color: #fff;
 }
 .post,
 .page,
@@ -1935,7 +1948,7 @@ footer {
   width: 6.875em;
   height: 6.875em;
   margin: 0 auto;
-  background: no-repeat url("../") left top;
+  background: no-repeat url("../img/author.jpg") left top;
   -webkit-background-size: 6.875em 6.875em;
   -moz-background-size: 6.875em 6.875em;
   background-size: 6.875em 6.875em;
