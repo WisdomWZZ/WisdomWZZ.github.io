@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wisdom的博客</title>
+  
+  <subtitle>乐生活</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wisdomwzz.github.io/"/>
+  <updated>2018-04-30T06:38:44.593Z</updated>
+  <id>https://wisdomwzz.github.io/</id>
+  
+  <author>
+    <name>Wisdom</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my new post</title>
+    <link href="https://wisdomwzz.github.io/2018/04/29/my-new-post/"/>
+    <id>https://wisdomwzz.github.io/2018/04/29/my-new-post/</id>
+    <published>2018-04-29T14:48:27.000Z</published>
+    <updated>2018-04-30T06:38:44.593Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;第一篇博客&quot;&gt;&lt;a href=&quot;#第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;第一篇博客&quot;&gt;&lt;/a&gt;第一篇博客&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://wisdomwzz.github.io/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
